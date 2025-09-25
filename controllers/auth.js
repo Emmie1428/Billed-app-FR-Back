@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const { User } = require('../models');
 const { compare } = require('../services/password');
 const jwt = require('../services/jwt');
